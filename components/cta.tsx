@@ -21,7 +21,7 @@ export default function CTA() {
       </motion.div>
 
       <motion.img
-        src="/chamaa_new_logo.png"
+        src="/hifadhi_logo.png"
         alt="logo"
         className="mx-auto h-12 w-12"
         variants={itemVariants}
@@ -30,14 +30,14 @@ export default function CTA() {
       <motion.div variants={itemVariants}>
         <TextBlur
           className="text-center text-3xl font-medium tracking-tighter sm:text-5xl"
-          text="Bringing Savings Groups Onchain"
+          text="Bringing Savings & Investment Groups Onchain"
         />
       </motion.div>
 
       <motion.div variants={itemVariants}>
         <TextBlur
           className="mx-auto max-w-2xl pt-1.5 text-center text-base text-zinc-300 sm:text-lg"
-          text="Chamaa brings the tradition of savings groups into the digital age with blockchain-powered security, real-time transparency, and mobile-first convenience. Save smarter, earn rewards, and grow your savings group financial resilience – all in one platform. Be among the first to experience the transformation. Join our waitlist today."
+          text="Join a new era of collective savings and investment. Hifadhi empowers communities to pool funds, earn yield from DeFi protocols, invest in tokenised real estate, Real World Assets (RWAs) such as tokenised equities and participate in Decentralized Physical Infrastructure (DePIN) projects. Be the first to access Hifadhi. Sign up now and secure early access!"
           duration={0.8}
         />
       </motion.div>

@@ -7,9 +7,9 @@ import { Analytics } from "@vercel/analytics/react";
 const FigtreeFont = Figtree({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Chamaa",
+  title: "Hifadhi",
   description:
-    "Bringing Savings Groups Onchain",
+    "Bringing Savings & Investment Groups Onchain",
 };
 
 export default function RootLayout({
@@ -25,11 +25,11 @@ export default function RootLayout({
       <meta property="og:image:height" content="832" />
       <meta
         property="og:site_name"
-        content="Chamaa"
+        content="Hifadhi"
       />
       <meta
         property="og:url"
-        content="https://chamaa.hifadhi.finance/"
+        content="https://hifadhi.finance/"
       />
       <meta name="twitter:image" content="/twitter-image.png" />
       <meta name="twitter:image:type" content="image/png" />

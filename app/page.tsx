@@ -126,7 +126,7 @@ export default function Home() {
             loading={loading}
           />
 
-          <Logos />
+          {/* <Logos /> */}
         </section>
 
         {/* <Particles
